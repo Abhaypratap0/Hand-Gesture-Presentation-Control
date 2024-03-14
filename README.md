@@ -6,6 +6,14 @@ This project aims to develop a system that allows users to control presentation 
 
 Traditional presentation controls, such as remote clickers, can be cumbersome to use. This project seeks to provide a more intuitive and interactive way to control presentations using hand gestures. By detecting and recognizing specific hand gestures, users can navigate through slides, highlight important points, and control other aspects of the presentation without the need for physical devices.
 
+##Gestures
+
+Gesture 1 - Thumb Finger - Move to Previous Slide
+Gesture 2 - Little Finger - Move to Next Slide
+Gesture 3 - Index Finger and Middle Finger Together - Holding the Pointer
+Gesture 4 - Index Finger - Drawing on the Slide
+Gesture 5 - Middle Three Fingers - Erase/Undo the Previous Draw
+
 ## Features
 
 - **Hand Gesture Detection:** Capture hand gestures using a webcam or depth sensor.
@@ -13,13 +21,6 @@ Traditional presentation controls, such as remote clickers, can be cumbersome to
 - **Slide Navigation:** Navigate through presentation slides using hand gestures.
 - **Highlighting:** Highlight or annotate specific parts of slides using gestures.
 - **User Interface:** Simple and intuitive user interface for configuring gestures and controlling presentations.
-
-## Installation
-
-1. Clone the repository: `git clone https://github.com/your-username/hand-gesture-presentation-control.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Set up the webcam or depth sensor for gesture detection.
-4. Run the presentation control script.
 
 ## Usage
 
@@ -32,10 +33,3 @@ Traditional presentation controls, such as remote clickers, can be cumbersome to
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [Insert any acknowledgements or credits here, e.g., for libraries, research papers, etc.]
