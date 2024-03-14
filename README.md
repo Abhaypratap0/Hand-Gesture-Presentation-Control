@@ -6,13 +6,13 @@ This project aims to develop a system that allows users to control presentation 
 
 Traditional presentation controls, such as remote clickers, can be cumbersome to use. This project seeks to provide a more intuitive and interactive way to control presentations using hand gestures. By detecting and recognizing specific hand gestures, users can navigate through slides, highlight important points, and control other aspects of the presentation without the need for physical devices.
 
-##Gestures
+## Gestures
 
--**Gesture 1 -** Thumb Finger - Move to Previous Slide.
--**Gesture 2 -** Little Finger - Move to Next Slide.
--**Gesture 3 -** Index Finger and Middle Finger Together - Holding the Pointer.
--**Gesture 4 -** Index Finger - Drawing on the Slide.
--**Gesture 5 -** Middle Three Fingers - Erase/Undo the Previous Draw.
+- **Gesture 1 -** Thumb Finger - Move to Previous Slide.
+- **Gesture 2 -** Little Finger - Move to Next Slide.
+- **Gesture 3 -** Index Finger and Middle Finger Together - Holding the Pointer.
+- **Gesture 4 -** Index Finger - Drawing on the Slide.
+- **Gesture 5 -** Middle Three Fingers - Erase/Undo the Previous Draw.
 
 ## Features
 
