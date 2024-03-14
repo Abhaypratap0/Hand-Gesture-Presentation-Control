@@ -8,11 +8,11 @@ Traditional presentation controls, such as remote clickers, can be cumbersome to
 
 ##Gestures
 
-Gesture 1 - Thumb Finger - Move to Previous Slide
-Gesture 2 - Little Finger - Move to Next Slide
-Gesture 3 - Index Finger and Middle Finger Together - Holding the Pointer
-Gesture 4 - Index Finger - Drawing on the Slide
-Gesture 5 - Middle Three Fingers - Erase/Undo the Previous Draw
+-**Gesture 1 -** Thumb Finger - Move to Previous Slide.
+-**Gesture 2 -** Little Finger - Move to Next Slide.
+-**Gesture 3 -** Index Finger and Middle Finger Together - Holding the Pointer.
+-**Gesture 4 -** Index Finger - Drawing on the Slide.
+-**Gesture 5 -** Middle Three Fingers - Erase/Undo the Previous Draw.
 
 ## Features
 
